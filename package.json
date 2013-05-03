@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "unzip": "0.0.4",
-    "progress": "~0.1.0"
+    "progress": "git://github.com/bryanforbes/node-progress.git#3cbe3467de"
   },
   "devDependencies": {
     "mocha": "~1.7.0",
